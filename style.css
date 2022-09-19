@@ -1,0 +1,76 @@
+#mission-color{
+    color:orangered
+}
+.first-mission{
+    width: 50%;
+    padding-left: 12%;
+    
+
+    
+
+}
+.first-mission img{
+    width:70%;
+   
+}
+.ok{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, violet);
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+
+#border-img{
+    border-left: 4px solid;
+    border-image: linear-gradient(red blue);
+    border-image-slice: 1;
+    
+}
+.second-section{
+    display: flex;
+    
+}
+.second-part{
+    width:40%;
+
+}
+.second-part img{
+    width:60%;
+    height: 50%;
+}
+#box-part1{
+    
+    border:5px;
+    background-color: goldenrod;
+    margin: 10px;
+    border-radius: 12px ;
+    padding:10px 30px;
+    box-shadow: 5px 5px 5px green;
+    
+}
+#box-part2{
+    
+    border:5px;
+    background-color: blueviolet;
+    margin: 10px;
+    border-radius: 12px ;
+    padding:10px 30px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+#box-part3{
+    
+    border:5px;
+    background-color: salmon;
+    margin: 10px;
+    border-radius: 12px ;
+    padding:10px 30px;
+    box-shadow: 5px 5px 5px blue;
+    
+}
+#mission-center{
+    text-align: center;
+}
