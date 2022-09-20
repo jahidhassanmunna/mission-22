@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
 #mission-color{
     color:orangered
 }
@@ -31,6 +35,7 @@
 }
 .second-section{
     display: flex;
+    border-top: 10%;
     
 }
 .second-part{
@@ -73,4 +78,48 @@
 }
 #mission-center{
     text-align: center;
+}
+.half-width{
+    width: 50%;
+    border-color: 4px solid black;
+    
+   
+}
+.half-width img{
+    width:40%;
+    margin-left: 24%;
+    
+    
+}
+.third-section{
+    display: flex;
+    margin-top: 10%;
+    padding-left: 10px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+   
+}
+.fourth-section{
+    display: flex;
+}
+.fourth-div{
+    width:50%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.fourth-div img{
+    width:45%;
+}
+.fifth-section{
+    display: flex;
+}
+.fifth-div{
+    width:50%;
+    margin-left: 15%;
+    margin-top: 10%;
+    padding-right: 23px;
+}
+.fifth-div img{
+    width:80%
+
 }
